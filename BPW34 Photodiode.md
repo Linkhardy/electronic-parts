@@ -1,4 +1,4 @@
-# BMP280 Breakoutboard
+# BPW34 Silicon PIN Photodiode DIP-2
 
 ## Beschreibung
 BPW34 is a PIN photodiode with high speed and high
@@ -20,3 +20,9 @@ package. It is sensitive to visible and near infrared radiation.
 
 ## Datenblatt
 [BPW34 Silicon PIN Photodiode DIP-2](https://www.vishay.com/docs/81521/bpw34.pdf)
+
+## Anwendungsbeispiel
+[Anwendungsbeispiel](https://projects-raspberry.com/bpw34-gamma-ray-detector/)
+
+## Fritzing Part
+[Fritzing Part]()

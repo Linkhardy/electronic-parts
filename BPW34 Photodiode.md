@@ -25,4 +25,4 @@ package. It is sensitive to visible and near infrared radiation.
 [Anwendungsbeispiel](https://projects-raspberry.com/bpw34-gamma-ray-detector/)
 
 ## Fritzing Part
-[Fritzing Part]()
+missing

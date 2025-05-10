@@ -45,17 +45,19 @@ GND: Grounding Wire
 [Amazon Produktseite](https://amzn.eu/d/gLniU65)
 
 ## Foto
-![MAX30102](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fifuturetech.org%2Fwp-content%2Fuploads%2F2022%2F03%2FCJMCU-74HC4051-8-Channel-Analog-Multiplexer-Module-03.jpg&f=1&nofb=1&ipt=ab0a5da3e7b61d2a6a828362c1893ac8c308020add9c9a956426c81ec0d27961)
+![MAX30102](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.electronicscomp.com%2Fimage%2Fcache%2Fcatalog%2Fmax30102-heart-rate-and-pulse-oximeter-sensor-module-black-800x800.jpg&f=1&nofb=1&ipt=aa837d2531f793efda4d7ed6c4e5415973f5001df780492ba47438023d79fada)
 
 ## Funktionsdiagramm
-![MAX30102](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.lnwfile.com%2F_%2Fi%2F_raw%2Fi0%2Fom%2Fww.jpg&f=1&nofb=1&ipt=dc7d25d19f41895cf4c8eba733980807117c1b1cf43459544ccf75fa55616970)
+![MAX30102](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdfimg.dfrobot.com%2Fnobody%2Fwiki%2F7cf018f2483b44524299a436674798d5.png&f=1&nofb=1&ipt=fd40b72682752eec6201a3e76e3a830ceb53dbe41fcd6151c8b9cd9d7f731ce9)
 
 ## Datenblatt
 [MAX30102](https://www.analog.com/media/en/technical-documentation/data-sheets/max30102.pdf)
 
 ## Anwendungsbeispiel
 [Anwendungsbeispiel](https://docs.sunfounder.com/projects/umsk/en/latest/04_pi_pico/pico_lesson14_max30102.html)
-[Video](https://www.youtube.com/watch?v=98Szuwh-6l8)
+
+[Video](https://www.youtube.com/watch?v=98Szuwh-6l8
+
 [Anwendungsbeispiel](https://github.com/n-elia/MAX30102-MicroPython-driver#other-things-that-its-worth-mentioning)
 
 ## Fritzing Part

@@ -45,7 +45,7 @@ GND: Grounding Wire
 [Amazon Produktseite](https://amzn.eu/d/gLniU65)
 
 ## Foto
-![MAX30102](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.electronicscomp.com%2Fimage%2Fcache%2Fcatalog%2Fmax30102-heart-rate-and-pulse-oximeter-sensor-module-black-800x800.jpg&f=1&nofb=1&ipt=aa837d2531f793efda4d7ed6c4e5415973f5001df780492ba47438023d79fada)
+![MAX30102](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.PlETOxlu_RatY1Pl-bIIiQAAAA%3Fcb%3Diwc2%26pid%3DApi&f=1&ipt=fd81998983b020f03006f384077353917e1b73766950e31fa034ff1653acb6f0&ipo=images)
 
 ## Funktionsdiagramm
 ![MAX30102](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdfimg.dfrobot.com%2Fnobody%2Fwiki%2F7cf018f2483b44524299a436674798d5.png&f=1&nofb=1&ipt=fd40b72682752eec6201a3e76e3a830ceb53dbe41fcd6151c8b9cd9d7f731ce9)
@@ -56,7 +56,7 @@ GND: Grounding Wire
 ## Anwendungsbeispiel
 [Anwendungsbeispiel](https://docs.sunfounder.com/projects/umsk/en/latest/04_pi_pico/pico_lesson14_max30102.html)
 
-[Video](https://www.youtube.com/watch?v=98Szuwh-6l8
+[Video](https://www.youtube.com/watch?v=98Szuwh-6l8)
 
 [Anwendungsbeispiel](https://github.com/n-elia/MAX30102-MicroPython-driver#other-things-that-its-worth-mentioning)
 

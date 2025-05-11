@@ -26,7 +26,7 @@ Angegeben von -40 ℃ bis + 85 und -40 bis + 125
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fifuturetech.org%2Fwp-content%2Fuploads%2F2022%2F03%2FCJMCU-74HC4051-8-Channel-Analog-Multiplexer-Module-03.jpg&f=1&nofb=1&ipt=ab0a5da3e7b61d2a6a828362c1893ac8c308020add9c9a956426c81ec0d27961" height="400">
 
 ## Funktionsdiagramm
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.lnwfile.com%2F_%2Fi%2F_raw%2Fi0%2Fom%2Fww.jpg&f=1&nofb=1&ipt=dc7d25d19f41895cf4c8eba733980807117c1b1cf43459544ccf75fa55616970" width="200">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.lnwfile.com%2F_%2Fi%2F_raw%2Fi0%2Fom%2Fww.jpg&f=1&nofb=1&ipt=dc7d25d19f41895cf4c8eba733980807117c1b1cf43459544ccf75fa55616970" width="400">
 
 ## Datenblatt
 [74HC4051 8-Kanal-Multiplexer](https://www.ti.com/lit/ds/symlink/cd74hc4051-ep.pdf)

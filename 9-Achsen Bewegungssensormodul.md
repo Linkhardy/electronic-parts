@@ -40,7 +40,7 @@ Das Magnetometer ist nicht wirklich in den ICM-20948 integriert. Es besitzt eige
 [Amazon Produktseite](https://amzn.eu/d/32H75Oh)
 
 ## Foto
-<img src="[Pfad/zum/Bild.jpg](https://wolles-elektronikkiste.de/wp-content/uploads/2021/07/ICM20948_module_small.jpg)" width="200">
+<img src="Pfad/zum/Bild.jpg](https://wolles-elektronikkiste.de/wp-content/uploads/2021/07/ICM20948_module_small.jpg" width="200">
 
 ## Funktionsdiagramm
 missing

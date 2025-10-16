@@ -50,8 +50,16 @@ missing
 
 [Magnetometer AK09916](https://www.y-ic.es/datasheet/78/SMDSW.020-2OZ.pdf)
 
+### Grundlagen
+
+[Wu Q, Wu R, Han F, Zhang R. A Three-Stage Accelerometer Self-Calibration Technique for Space-Stable Inertial Navigation Systems. Sensors (Basel). 2018 Aug 31;18(9):2888. doi: 10.3390/s18092888. PMID: 30200366; PMCID: PMC6164698.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6164698/pdf/sensors-18-02888.pdf)
+
+
 ## Anwendungsbeispiel
 [Anwendungsbeispiel](https://wolles-elektronikkiste.de/icm-20948-9-achsensensor-teil-i)
+
+### Kalibrierungsbeispiele
+[How to Calibrate an Accelerometer](https://github.com/michaelwro/accelerometer-calibration)
 
 ## Fritzing Part
 missing

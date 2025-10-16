@@ -52,8 +52,9 @@ missing
 
 ### Grundlagen
 
-[Wu Q, Wu R, Han F, Zhang R. A Three-Stage Accelerometer Self-Calibration Technique for Space-Stable Inertial Navigation Systems. Sensors (Basel). 2018 Aug 31;18(9):2888. doi: 10.3390/s18092888. PMID: 30200366; PMCID: PMC6164698.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6164698/pdf/sensors-18-02888.pdf)
+[WU, Qiuping, et al. A three-stage accelerometer self-calibration technique for space-stable inertial navigation systems. Sensors, 2018, 18. Jg., Nr. 9, S. 2888.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6164698/pdf/sensors-18-02888.pdf)
 
+[SOTO, Hector L. Calibrating a 3-Axis Accelerometer Instrument with a Less Accurate Calibration Device Part 1: Mathematical Methodology. 2020.](https://ntrs.nasa.gov/api/citations/20205005041/downloads/NASA-TM-2020-5005041%20corrected.pdf)
 
 ## Anwendungsbeispiel
 [Anwendungsbeispiel](https://wolles-elektronikkiste.de/icm-20948-9-achsensensor-teil-i)

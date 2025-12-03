@@ -30,6 +30,7 @@ Knopfzelle	CR2032
 ## Foto
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.giganepal.com%2Fwp-content%2Fuploads%2F2023%2F04%2F71eUOEnI04L._AC_SX679_.jpg&f=1&nofb=1&ipt=b34ed51cd8782542d0817f332fa500ac944ffcb3f64feb54f9a8c8a7411cce7e"  width="400">
 
+
 ## 24C32 EEPROM
 A 32-byte Atmel 24C32 EEPROM chip with unlimited read-write cycles is also included with the DS3231 RTC module.
 The three A0, A1, and A2 solder jumpers on the back make modifying the EEPROM’s I2C address simple. The addresses are hardcoded into each of these. Soldering a jumper short establishes the address.
@@ -37,23 +38,20 @@ The three A0, A1, and A2 solder jumpers on the back make modifying the EEPROM’
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.QpaxdA75WG7N5Xt_m9OFLAHaDt%3Fpid%3DApi&f=1&ipt=b922d6d5529dce14e34243436f440d88874ead1a960012b3c4907774c0053549&ipo=images" width="400">
 
 
+## Battery
+1. if you power the module with 3.3V or 5V (both is OK) and use a CR2032 battery you HAVE to desolder the resistor "201".
+The battery will not be charged but will work fine as a backup battery when there is no Vcc
+2. if you power the module with 3.3V or 5V (both is OK) and use a LIR2032 battery, you DONT have to desolder anything, but you'll have limited battery life
+Advisable is option 1.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feurope1.discourse-cdn.com%2Farduino%2Foptimized%2F4X%2Fa%2F0%2F7%2Fa07d64c6d6c3713b93bd2923ef705428735398e8_2_790x750.jpeg&f=1&nofb=1&ipt=a92e0de5ff00d0f00ca348592ddac6e4056a023e4891f54b50366d641393f20f" width="400">
+[Arduino Forum](https://forum.arduino.cc/t/zs-042-ds3231-rtc-module/268862/69?page=4)
 
-
-
-
-
-
-
-
-
-## Funktionsdiagramm
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.lnwfile.com%2F_%2Fi%2F_raw%2Fi0%2Fom%2Fww.jpg&f=1&nofb=1&ipt=dc7d25d19f41895cf4c8eba733980807117c1b1cf43459544ccf75fa55616970" width="400">
 
 ## Datenblatt
 [AZ-Delivery](https://cdn.shopify.com/s/files/1/1509/1638/files/DS3231_RTC_Real_Time_Clock_DE_2a4d775e-b341-4982-a91d-0b543af02304.pdf?v=1756708072)
 
 ## Anwendungsbeispiel
-[Anwendungsbeispiel](http://www.multiwingspan.co.uk/pico.php?page=multiplex)
+[Anwendungsbeispiel](https://electrocredible.com/ds3231-raspberry-pi-pico-micropython-arduino/)
 
 ## Fritzing Part
-[Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/raw/refs/heads/main/products/13906_sfe_74hc4051_mux_breakout.fzpz)
+[Fritzing Part](https://github.com/Michaeltetteh/Fritzing_parts/blob/master/ZS-042%20RTC%20Module.fzpz)

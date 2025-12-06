@@ -36,22 +36,33 @@ welche anscheinend bis zu 2 A betragen können, einzubauen
 
 ## Foto
 <img src="[https://wolles-elektronikkiste.de/wp-content/uploads/2021/07/ICM20948_module_small.jpg](https://wolles-elektronikkiste.de/wp-content/uploads/2021/11/SIM800L_pinout-1536x883.png)" width="200">
-<img src="[[https://wolles-elektronikkiste.de/wp-content/uploads/2021/07/ICM20948_module_small.jpg](https://wolles-elektronikkiste.de/wp-content/uploads/2021/11/SIM800L_pinout-1536x883.png](https://wolles-elektronikkiste.de/wp-content/uploads/2021/10/SIM800L_Sim_Karte-741x1024.jpg)" width="200">
+
+<img src="[https://wolles-elektronikkiste.de/wp-content/uploads/2021/07/ICM20948_module_small.jpg](https://wolles-elektronikkiste.de/wp-content/uploads/2021/11/SIM800L_pinout-1536x883.png](https://wolles-elektronikkiste.de/wp-content/uploads/2021/10/SIM800L_Sim_Karte-741x1024.jpg)" width="200">
 
 
 ## Weiterführende Quellen
+
 [SIM800L Modul](https://wolles-elektronikkiste.de/sim800l-modul)
+
 [Raspberry Pi Pico With SIM800L Module](https://www.theelectronics.co.in/2021/09/raspberry-pi-pico-with-sim800l-module.html)
+
 [Send Receive SMS & Call with SIM800L GSM Module & Arduino][(https://www.circuits-diy.com/send-receive-sms-call-with-sim800l-gsm-module-arduino/)
+
 [Raspberry Pi Pico Relay Control With SMS Sim800L Arduino IDE](https://www.youtube.com/watch?v=8HVxT5M7FmI)
+
 [Liste mit AT-Befehlen](https://github.com/anothermist/LIBRARIES/blob/master/TinyGSM/extras/AT%20Command%20Manuals/SIM800%20Series%20AT%20Command%20Manual%20V1.10.pdf)
 
 
-###Trouble shooting:
+### Trouble shooting
+
 [Probleme mit dem einwählen in ein Mobilfunknetz mittel SIM 800L Modem](https://www.mikrocontroller.net/topic/430187)
+
 [Spannungsversorgung des SIM800L Mobilfunkmoduls](https://cbrell.de/blog/spannungsversorgung-des-sim800l-mobilfunkmoduls/)
+
 [Solutions of SIM800L Network Problem | 4 Methods](https://www.youtube.com/watch?v=j2mM4ssH8nk (siehe Videobeschreibung))
+
 [SIM800L SIM Karte Provider](https://forum.arduino.cc/t/sim800l-sim-karte-provider/508736)
+
 [MicroPython libraries for the SIM800 module](https://community.hiveeyes.org/t/micropython-libraries-for-the-sim800-module/1492)
 
 

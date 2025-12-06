@@ -35,9 +35,9 @@ welche anscheinend bis zu 2 A betragen können, einzubauen
 [Amazon Produktseite](https://www.amazon.de/dp/B0CM9HGCKX)
 
 ## Foto
-<img src="[https://wolles-elektronikkiste.de/wp-content/uploads/2021/07/ICM20948_module_small.jpg](https://wolles-elektronikkiste.de/wp-content/uploads/2021/11/SIM800L_pinout-1536x883.png)" width="200">
+<img src="https://wolles-elektronikkiste.de/wp-content/uploads/2021/11/SIM800L_pinout-1536x883.png" width="200">
 
-<img src="[https://wolles-elektronikkiste.de/wp-content/uploads/2021/07/ICM20948_module_small.jpg](https://wolles-elektronikkiste.de/wp-content/uploads/2021/11/SIM800L_pinout-1536x883.png](https://wolles-elektronikkiste.de/wp-content/uploads/2021/10/SIM800L_Sim_Karte-741x1024.jpg)" width="200">
+<img src="https://wolles-elektronikkiste.de/wp-content/uploads/2021/10/SIM800L_Sim_Karte-741x1024.jpg" width="200">
 
 
 ## Weiterführende Quellen
@@ -46,7 +46,7 @@ welche anscheinend bis zu 2 A betragen können, einzubauen
 
 [Raspberry Pi Pico With SIM800L Module](https://www.theelectronics.co.in/2021/09/raspberry-pi-pico-with-sim800l-module.html)
 
-[Send Receive SMS & Call with SIM800L GSM Module & Arduino][(https://www.circuits-diy.com/send-receive-sms-call-with-sim800l-gsm-module-arduino/)
+[Send Receive SMS & Call with SIM800L GSM Module & Arduino](https://www.circuits-diy.com/send-receive-sms-call-with-sim800l-gsm-module-arduino/)
 
 [Raspberry Pi Pico Relay Control With SMS Sim800L Arduino IDE](https://www.youtube.com/watch?v=8HVxT5M7FmI)
 
@@ -68,4 +68,4 @@ welche anscheinend bis zu 2 A betragen können, einzubauen
 
 
 ## Fritzing Part
-missing
+[https://github.com/DacianFD84/fritzing_parts/tree/main](https://github.com/DacianFD84/fritzing_parts/raw/refs/heads/main/SIM800L.fzpz)

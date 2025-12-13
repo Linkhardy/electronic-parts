@@ -1,4 +1,4 @@
-# D-Power DS-840BB MG Digital Servo
+# Servo DS-840BB MG Digital Servo D-Power
 
 ## Beschreibung
 ICM-20948 ICM20948 9-Achsen Bewegungssensormodul für genaue Trackings und geringen Stromverbrauch in Geräten

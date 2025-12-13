@@ -1,4 +1,4 @@
-# ICM20948 9-Achsen Bewegungssensormodul
+# SIM800L Quad-Band GSM/GPRS-2G-Modul mit TTL-UART
 
 ## Beschreibung
 Ein GSM/GPRS-Modul ist ein Mobilfunk-Modem für [2G-Netz](https://www.pcwelt.de/article/2251322/wann-2g-abschaltung-folgen.html), um SMS, Telefonie und mobile Daten zu nutzen.

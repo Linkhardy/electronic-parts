@@ -30,7 +30,9 @@ Informationen zum Lesen von Spannung und Strom von der UPS über Pico finden Sie
 [Amazon Produktseite]([https://amzn.eu/d/32H75Oh](https://www.amazon.de/dp/B09S5YKBXC))
 
 ## Foto
-<img src="images/480px-EP-0159-5.jpg" alt="Bild" width="300">
+<img src="images/480px-EP-0159-5.jpg" alt="Ueberblick" width="300" style="display:inline-block; margin-right:20px;">
+<img src="images/480px-EP-0159-8.jpg" alt="Bild 2" width="300" style="display:inline-block;">
+
 
 ## Verkabelung zum Lesen der Versorgungsdaten
 <img src="images/EP-0159接线.jpg" alt="Bild" width="300">

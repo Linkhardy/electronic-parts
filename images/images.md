@@ -10,7 +10,7 @@ EP-0159接线.jpg|Versorungsabfrage|(https://wiki.52pi.com/index.php?title=EP-01
 AS7262 light colour sensor.md
 Dateiname|Beschreibung|Quelle|Github
 ---------|------------|------|------
-light_pniout.jpg|Übersicht|(https://cdn-learn.adafruit.com/assets/assets/000/052/641/original/light_pniout.jpg?1522268332)
+light_pniout.jpg|Übersicht|(https://cdn-learn.adafruit.com/assets/assets/000/052/641/original/light_pniout.jpg?1522268332)|(images/light_pniout.jpg)
 
 
 

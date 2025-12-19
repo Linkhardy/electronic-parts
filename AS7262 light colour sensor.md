@@ -44,18 +44,19 @@ CDM JESD22-C101E überschreitet 1000 V
 Angegeben von -40 ℃ bis + 85 und -40 bis + 125
 
 ## Bezugsquelle
-[Amazon Produktseite](https://amzn.eu/d/fy4efxa)
+[Amazon Produktseite](https://www.amazon.de/dp/B07DM1V932))
 
 ## Foto
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fifuturetech.org%2Fwp-content%2Fuploads%2F2022%2F03%2FCJMCU-74HC4051-8-Channel-Analog-Multiplexer-Module-03.jpg&f=1&nofb=1&ipt=ab0a5da3e7b61d2a6a828362c1893ac8c308020add9c9a956426c81ec0d27961" height="400">
+<img src="images/light_pniout.jpg" alt="Bild" width="400">
 
 ## Funktionsdiagramm
-<img src="images/light_pniout.jpg" alt="Bild" width="400">
+
 ## Datenblatt
-[74HC4051 8-Kanal-Multiplexer](https://www.ti.com/lit/ds/symlink/cd74hc4051-ep.pdf)
+[Adafruit AS7262 6-channel Visible Light Sensor](https://learn.adafruit.com/adafruit-as7262-6-channel-visible-light-sensor/overview)
 
 ## Anwendungsbeispiel
-[Anwendungsbeispiel](http://www.multiwingspan.co.uk/pico.php?page=multiplex)
+[Anwendungsbeispiel1](https://jschrier.github.io/blog/2023/02/01/Reading-AS726x-and-AS7265X-Spectral-Sensors-in-Micropython.html)
+[Anwendungsbeispiel2](https://github.com/jajberni/AS726X_LoPy)
 
 ## Fritzing Part
 [Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/raw/refs/heads/main/products/13906_sfe_74hc4051_mux_breakout.fzpz)

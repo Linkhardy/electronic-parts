@@ -54,12 +54,13 @@ Angegeben von -40 ℃ bis + 85 und -40 bis + 125
 ## Datenblatt
 [Adafruit AS7262 6-channel Visible Light Sensor](https://learn.adafruit.com/adafruit-as7262-6-channel-visible-light-sensor/overview)
 
+[AMS AS7262[(https://cdn-learn.adafruit.com/assets/assets/000/052/623/original/AS7262_DS000486_2-00_%281%29.pdf?1522179774)
+
 ## Anwendungsbeispiel
 [Anwendungsbeispiel1](https://jschrier.github.io/blog/2023/02/01/Reading-AS726x-and-AS7265X-Spectral-Sensors-in-Micropython.html)
 
 [Anwendungsbeispiel2](https://github.com/jajberni/AS726X_LoPy)
 
-[Anwendungsbeispiel3](https://docs.cirkitdesigner.com/component/ab0298fa-9034-57c8-eaab-d4c3cd7f78e6/adafruit-as7262-visible-spectral-sensor)
 
 ## Fritzing Part
 [Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/raw/refs/heads/main/products/13906_sfe_74hc4051_mux_breakout.fzpz)

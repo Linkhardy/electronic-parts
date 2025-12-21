@@ -56,7 +56,10 @@ Angegeben von -40 ℃ bis + 85 und -40 bis + 125
 
 ## Anwendungsbeispiel
 [Anwendungsbeispiel1](https://jschrier.github.io/blog/2023/02/01/Reading-AS726x-and-AS7265X-Spectral-Sensors-in-Micropython.html)
+
 [Anwendungsbeispiel2](https://github.com/jajberni/AS726X_LoPy)
+
+[Anwendungsbeispiel3[(https://docs.cirkitdesigner.com/component/ab0298fa-9034-57c8-eaab-d4c3cd7f78e6/adafruit-as7262-visible-spectral-sensor)
 
 ## Fritzing Part
 [Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/raw/refs/heads/main/products/13906_sfe_74hc4051_mux_breakout.fzpz)
